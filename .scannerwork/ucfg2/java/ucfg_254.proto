@@ -1,0 +1,37 @@
+
+)domain.Event#toString()Ljava/lang/String;Y
+OC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Event.javaN N("1*˜
+1Y
+OC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Event.javaO	 O(†
+ù
+Y
+OC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Event.javaO	 O(
+%0java.lang.Integer"__id*!*
+domain.Event"
+eventNumber£
+†
+Y
+OC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Event.javaO	 O(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+; ü
+ú
+Y
+OC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Event.javaO O(%
+%2java.lang.String"__id*!*
+domain.Event"
+description¥
+±
+Y
+OC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Event.javaO	 O(%
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"u
+Y
+OC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Event.javaO O(&
+
+%3java.lang.StringB
+domain.Event

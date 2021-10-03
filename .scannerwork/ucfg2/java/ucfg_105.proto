@@ -1,0 +1,91 @@
+
+Qnull#prepareRenderer(Ljavax/swing/table/TableCellRenderer;II)Ljava/awt/Component;g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÀ À(#"startingBlock*ÿ
+startingBlockg
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÀ# À(TÉ
+Æ
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java¿ ¿(
+%8"
+__annotate*
+java.lang.Override*1
+/
+renderer#javax.swing.table.TableCellRenderer³
+°
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÀ6 À(>/
+renderer#javax.swing.table.TableCellRenderer"__annotation*
+
+%8*
+1*›
+1g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÁ Á(²
+¯
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÁ Á(F
+%0java.awt.Component"_javax.swing.JTable#prepareRenderer(Ljavax/swing/table/TableCellRenderer;II)Ljava/awt/Component;*
+""*1
+/
+renderer#javax.swing.table.TableCellRenderer*
+""*
+""¯
+¬
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÁ Á(G
+	componentjava.awt.Component"__id*
+
+%0java.awt.Componentøõ
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÂ Â(4
+%1java.awt.Dimension"9java.awt.Component#getPreferredSize()Ljava/awt/Dimension;*!
+
+	componentjava.awt.Component2getPreferredSize()–“
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÃ Ã(.(
+%2"javax.swing.table.TableColumnModel"Gjavax.swing.JTable#getColumnModel()Ljavax/swing/table/TableColumnModel;*#!
+Lgui/HistorialApuestasGUI$6766;2getColumnModel()£ 
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÃ Ã(@#
+%3javax.swing.table.TableColumn"Njavax.swing.table.TableColumnModel#getColumn(I)Ljavax/swing/table/TableColumn;**
+(
+%2"javax.swing.table.TableColumnModel*
+""2getColumn(I)Ç
+Ä
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÃ Ã(A,
+tableColumnjavax.swing.table.TableColumn"__id*%
+#
+%3javax.swing.table.TableColumn€ý
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÅ Å(4
+%4java.awt.Dimension"<javax.swing.JTable#getIntercellSpacing()Ljava/awt/Dimension;*#!
+Lgui/HistorialApuestasGUI$6766;2getIntercellSpacing()ðí
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÅ< Å([	
+%5int"2javax.swing.table.TableColumn#getPreferredWidth()I*.
+,
+tableColumnjavax.swing.table.TableColumn2getPreferredWidth()¹
+¶
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÅ Å(\	
+%6int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*
+	
+%5int€ý
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÄ Å(]
+
+%7void"3javax.swing.table.TableColumn#setPreferredWidth(I)V*.
+,
+tableColumnjavax.swing.table.TableColumn*
+	
+%6int2setPreferredWidth(I)"Œ
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÆ Æ(!
+
+	componentjava.awt.Component:/
+renderer#javax.swing.table.TableCellRenderer:
+"":
+""B#!
+Lgui/HistorialApuestasGUI$6766;

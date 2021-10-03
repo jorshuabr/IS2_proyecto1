@@ -1,0 +1,96 @@
+
+(domain.User#toString()Ljava/lang/String;X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java9 9("1*»
+1X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java; ;(š
+—
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java; ;(*
+%0java.lang.String"__id**
+domain.User"
+
+userName©
+¦
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java; ;(*
+%1java.lang.String"__concat*
+
+userName: *
+
+%0java.lang.String«
+¨
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java; ;(;
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+\nuserPass: š
+—
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java;> ;(K
+%3java.lang.String"__id**
+domain.User"
+
+userPass³
+°
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java; ;(K
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String¬
+©
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java; ;(]
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+\nfirstName: ›
+˜
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java;` ;(n
+%6java.lang.String"__id**
+domain.User"
+	firstName³
+°
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java; ;(n
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String«
+¨
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java; <(
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+\nlastName: š
+—
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java< <($
+%9java.lang.String"__id**
+domain.User"
+
+lastName´
+±
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java; <($
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.String–
+“
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java; <(%
+stjava.lang.String"__id*
+
+%10java.lang.String"t
+X
+NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java= =(
+
+stjava.lang.StringB
+domain.User

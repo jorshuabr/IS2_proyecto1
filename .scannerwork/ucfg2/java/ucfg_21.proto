@@ -1,0 +1,76 @@
+
+1gui.RegisterGUI#validoNumero(Ljava/lang/String;)Z^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaã ã("4*Ô
+2^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaë ë(	å
+â
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaë ë(
+%5java.io.PrintStream"__id*
+""êç
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaë ë(H
+
+%6void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%5java.io.PrintStream*31
+/El formato del numero de telofono es incorrecto2println(Ljava/lang/String;)"h
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaí í(
+""*é
+3^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaè è(	å
+â
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaè è(
+%3java.io.PrintStream"__id*
+""îë
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaè è(L
+
+%4void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%3java.io.PrintStream*75
+3El formato del numero de telefono cumple el formato2println(Ljava/lang/String;)*
+1*ﬁ	
+4^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaå å(å
+â
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaå å(@
+%0java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
+java.util.regex.Pattern*
+^(\\+[0-9]+\\s)?[0-9]{9}$Æ
+´
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaå å(A"
+patternjava.util.regex.Pattern"__id*
+
+%0java.util.regex.PatternΩ∫
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaç ç('
+%1java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*$
+"
+patternjava.util.regex.Pattern*
+
+numerojava.lang.String2!matcher(Ljava/lang/CharSequence;)™
+ß
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaç ç((
+matjava.util.regex.Matcher"__id*
+
+%1java.util.regex.Matcher√¿
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaé é(
+%2boolean""java.util.regex.Matcher#matches()Z* 
+
+matjava.util.regex.Matcher2	matches()*
+2
+3*Õ
+1^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaî	 î("h
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaî î(
+"":
+numerojava.lang.StringB
+gui.RegisterGUI

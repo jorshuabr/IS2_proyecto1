@@ -1,0 +1,15 @@
+
+çdataAccess.DataAccess#editarPerfilUsuarioSinPass(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Zd
+XC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÇ	 Ç	(*"3*Ÿ
+3d
+XC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaå	
+ å	("n
+d
+XC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaå	 å	(
+"":
+	pUsernamejava.lang.String:
+pNombrejava.lang.String:
+	pApellidojava.lang.String:
+pEmailjava.lang.String:#
+pCuentaBancariajava.lang.StringB
+dataAccess.DataAccess

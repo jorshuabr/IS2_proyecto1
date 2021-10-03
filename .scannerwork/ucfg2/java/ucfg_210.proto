@@ -1,0 +1,141 @@
+
+/domain.RegularUser#toString()Ljava/lang/String;_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaT T("1*·
+1_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(³
+°
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(
+%0java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+""³
+°
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(0
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+\nbirthDate: ©
+¦
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU3 U(<
+%2java.lang.String"__id*%*#
+domain.RegularUser"
+	birthDateº
+·
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(<
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String®
+«
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(I
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+
+\nemail:¥
+¢
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaUL U(Q
+%5java.lang.String"__id*!*
+domain.RegularUser"
+emailº
+·
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(Q
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.Stringµ
+²
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(e
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+\nbankAccount: «
+¨
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaV V(
+%8java.lang.String"__id*'*%
+domain.RegularUser"
+bankAccountº
+·
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(
+%9java.lang.String"__concat*
+
+%7java.lang.String*
+
+%8java.lang.String´
+±
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(#
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+\nphoneNumb: «
+¨
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaV& V(/
+%11java.lang.Integer"__id*%*#
+domain.RegularUser"
+	phoneNumb¾
+»
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(/
+%12java.lang.String"__concat*
+
+%10java.lang.String*
+
+%11java.lang.Integer³
+°
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(?
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+\naddress: ¨
+¥
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaVB V(I
+%14java.lang.String"__id*#*!
+domain.RegularUser"	
+address½
+º
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(I
+%15java.lang.String"__concat*
+
+%13java.lang.String*
+
+%14java.lang.String±
+®
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(W
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+	\nsaldo: ª
+§
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(_
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+""
+š
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(`
+stjava.lang.String"__id*
+
+%17java.lang.String"{
+_
+UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaW W(
+
+stjava.lang.StringB
+domain.RegularUser

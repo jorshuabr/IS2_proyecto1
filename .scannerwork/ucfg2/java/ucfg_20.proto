@@ -1,0 +1,76 @@
+
+2gui.RegisterGUI#validoCuentaB(Ljava/lang/String;)Z^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java˛ ˛("4*Ó
+2^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÑ Ñ(	å
+â
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÑ Ñ(
+%5java.io.PrintStream"__id*
+""èå
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÑ Ñ(G
+
+%6void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%5java.io.PrintStream*20
+.El formato de la cuenta bancaria es incorrecto2println(Ljava/lang/String;)"h
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÖ Ö(
+""*ç
+3^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÇ Ç(	å
+â
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÇ Ç(
+%3java.io.PrintStream"__id*
+""ìê
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÇ Ç(K
+
+%4void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%3java.io.PrintStream*64
+2El formato de la cuenta bancaria cumple el formato2println(Ljava/lang/String;)*
+1*˘	
+4^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaˇ ˇ(¶
+£
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaˇ ˇ(Z
+%0java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
+java.util.regex.Pattern*75
+3^[A-Z]{2}[0-9]{2}\\s[0-9]{4}\\s[0-9]{4}\\s[0-9]{4}$Æ
+´
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaˇ ˇ(["
+patternjava.util.regex.Pattern"__id*
+
+%0java.util.regex.Patternæª
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÄ Ä((
+%1java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*$
+"
+patternjava.util.regex.Pattern*
+
+cuentabjava.lang.String2!matcher(Ljava/lang/CharSequence;)™
+ß
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÄ Ä()
+matjava.util.regex.Matcher"__id*
+
+%1java.util.regex.Matcher√¿
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÅ Å(
+%2boolean""java.util.regex.Matcher#matches()Z* 
+
+matjava.util.regex.Matcher2	matches()*
+2
+3*Õ
+1^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaá	 á("h
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaá á(
+"":
+cuentabjava.lang.StringB
+gui.RegisterGUI

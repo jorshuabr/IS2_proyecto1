@@ -1,0 +1,76 @@
+
+0gui.RegisterGUI#validoEmail(Ljava/lang/String;)Z^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java„ „("4*‡
+2^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÍ Í(	å
+â
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÍ Í(
+%5java.io.PrintStream"__id*
+""Å˛
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÍ Í(9
+
+%6void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%5java.io.PrintStream*$"
+ Amiga que email de meirda es ese2println(Ljava/lang/String;)"h
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÎ Î(
+""*É
+3^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÁ Á(	å
+â
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÁ Á(
+%3java.io.PrintStream"__id*
+""âÜ
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÁ Á(A
+
+%4void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%3java.io.PrintStream*,*
+(Porfin metes un email correscto estupida2println(Ljava/lang/String;)*
+1*ˆ	
+4^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java‰ ‰(•
+¢
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java‰ ‰(Y
+%0java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
+java.util.regex.Pattern*64
+2^[a-zA-Z0-9]+((\\_|\\.)[a-zA-Z0-9]+)?@gmail\\.com$Æ
+´
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java‰ ‰(Z"
+patternjava.util.regex.Pattern"__id*
+
+%0java.util.regex.Patternºπ
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÂ Â(&
+%1java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*$
+"
+patternjava.util.regex.Pattern*
+
+emailjava.lang.String2!matcher(Ljava/lang/CharSequence;)™
+ß
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÂ Â('
+matjava.util.regex.Matcher"__id*
+
+%1java.util.regex.Matcher√¿
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÊ Ê(
+%2boolean""java.util.regex.Matcher#matches()Z* 
+
+matjava.util.regex.Matcher2	matches()*
+2
+3*Õ
+1^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÌ	 Ì("h
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÌ Ì(
+"":
+emailjava.lang.StringB
+gui.RegisterGUI

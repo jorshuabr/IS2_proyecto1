@@ -1,0 +1,110 @@
+
+bnull#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java´ ´(1"startingBlock*ß
+2g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java∞> ∞(Cê
+ç
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java∞> ∞(I
+%3java.awt.Color"__id*
+""†
+ù
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java∞> ∞(I
+%1java.awt.Color"__id*
+
+%3java.awt.Color*
+1*Ë
+3g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java∞- ∞(0íè
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java∞' ∞(,
+%2java.awt.Color"java.awt.Colorº
+π
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java∞# ∞(;
+%4"java.awt.Color#<init>(III)V*
+
+%2java.awt.Color*2È*2È*2È†
+ù
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java∞# ∞(;
+%1java.awt.Color"__id*
+
+%2java.awt.Color*
+1*≠
+startingBlockg
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java´1 ¨(+µ
+≤
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java™ ™(
+%6"
+__annotate*
+java.lang.Override*
+
+tablejavax.swing.JTableü
+ú
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java´9 ´(>
+tablejavax.swing.JTable"__annotation*
+
+%6≥
+∞
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java™ ™(
+%7"
+__annotate*
+java.lang.Override*
+
+valuejava.lang.Objectù
+ö
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java´G ´(L
+valuejava.lang.Object"__annotation*
+
+%7*
+4*ñ
+4g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java≠ ≠(ı
+Ú
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java≠ Æ(
+%0java.awt.Component"àjavax.swing.table.DefaultTableCellRenderer#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;*
+""*
+
+tablejavax.swing.JTable*
+
+valuejava.lang.Object*
+""*
+""*
+""*
+""ß
+§
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java≠ Æ(
+cjava.awt.Component"__id*
+
+%0java.awt.Component*
+2
+3*˜
+1g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java∞ ∞(JÅ˛
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java∞ ∞(J
+
+%5void"3java.awt.Component#setBackground(Ljava/awt/Color;)V*
+
+cjava.awt.Component*
+
+%1java.awt.Color2setBackground(Ljava/awt/Color;)"Ñ
+g
+[C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java≤ ≤(
+
+cjava.awt.Component:
+tablejavax.swing.JTable:
+valuejava.lang.Object:
+"":
+"":
+"":
+""B#!
+Lgui/HistorialApuestasGUI$6019;

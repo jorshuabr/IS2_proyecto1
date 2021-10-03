@@ -1,0 +1,56 @@
+
+1gui.RegisterGUI#validoNombre(Ljava/lang/String;)Z^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java¥ ¥("7*Í
+3^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaª ª("h
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaª ª(
+""*í
+4^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java©8 ©(AÀ½
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java©O ©(c
+%3char[]" java.lang.String#toCharArray()[C*
+
+nombrejava.lang.String2toCharArray()¹
+¶
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java©8 ©(g
+%4boolean"$java.lang.Character#isWhitespace(C)Z*"
+java.lang.Character*
+""*	
+3
+5
+1*é
+5^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java© ©(À½
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java© ©(/
+%1char[]" java.lang.String#toCharArray()[C*
+
+nombrejava.lang.String2toCharArray()µ
+²
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java© ©(3
+%2boolean" java.lang.Character#isLetter(C)Z*"
+java.lang.Character*
+""*	
+4
+5
+1*®
+7^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java¦ ¦(À½
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java¦ ¦(%
+%0char[]" java.lang.String#toCharArray()[C*
+
+nombrejava.lang.String2toCharArray()*
+5
+1*Í
+1^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java®	 ®("h
+^
+RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java® ®(
+"":
+nombrejava.lang.StringB
+gui.RegisterGUI
