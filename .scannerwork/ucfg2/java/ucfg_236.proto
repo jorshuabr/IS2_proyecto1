@@ -1,17 +1,23 @@
 
-+domain.User#getLastName()Ljava/lang/String;X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java0 0("1*ð
-1X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java1	 1(š
-—
-X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java1	 1(
-%0java.lang.String"__id**
-domain.User"
-
-lastName"t
-X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java1 1(
-
-%0java.lang.StringB
-domain.User
+7domain.Question#DoesForecastExists(Ljava/lang/String;)Zi
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.java° °(""5*ã
+3i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.java³ ³("s
+i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.java³ ³(
+""*Ä
+5i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.java± ±(ËÈ
+i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.java± ±('
+%0"0domain.Question#getForecasts()Ljava/util/Vector;*
+domain.Question2getForecasts()*
+3
+1*ã
+1i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.javaµ	 µ("s
+i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.javaµ µ(
+"":
+forecastjava.lang.StringB
+domain.Question

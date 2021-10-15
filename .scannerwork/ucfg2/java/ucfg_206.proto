@@ -1,16 +1,11 @@
 
-1domain.RegularUser#getAddress()Ljava/lang/String;_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaC C("1*‹
-1_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaD	 D(§
-¤
-_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaD	 D(
-%0java.lang.String"__id*#*!
-domain.RegularUser"	
-address"{
-_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaD D(
-
-%0java.lang.StringB
-domain.RegularUser
+@dataAccess.DataAccess#aplicarBonoBienvenida(Ljava/lang/String;)Zo
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaþ þ(%"2*ï
+2o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.java…
+ …("y
+o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.java… …(
+"":
+userjava.lang.StringB
+dataAccess.DataAccess

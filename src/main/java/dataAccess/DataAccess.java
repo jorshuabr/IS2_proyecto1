@@ -1090,6 +1090,7 @@ public class DataAccess {
 		}
 
 	}
+	
 
 	public Forecast insertForecast(Question q, String forecast, float fee) {
 		System.out.println(">> DataAccess: insertForecast=> question= " + q + " forecast= " + forecast + " fee=" + fee);
@@ -1221,7 +1222,31 @@ public class DataAccess {
 
 		return forecasts.get(forecasts.size() - 1).getForecastNumber();
 	}
+	
+	public Forecast findForecast(int forecastNumber) {
+		Forecast fore = db.find(Forecast.class, forecastNumber);
+		return fore;
+	}
+	/**/
+	public User findUser(String name) {
+		User u = db.find(User.class, name);
+		return u;
+	}
+	
+	public float getBetMin(Question q) {
+		return q.getBetMinimum();
+	}
+	
+	public Forecast registrarForecast(String name, Float fee, Question q)  {
+		db.getTransaction().begin();
+		Forecast fo = new Forecast(name, fee, q);
 
+		db.persist(fo);
+		db.getTransaction().commit();
+		return fo;
+	}
+	
+	
 	public int createApuesta(Forecast pSelectedForecast, RegularUser pselectedClient, Float pselectedAmount) {
 		// VALIDACIÓN DE NÚMERO POSITIVO
 		if (pselectedAmount < 0) {
@@ -1229,8 +1254,8 @@ public class DataAccess {
 			return 4;
 		} else {
 			// VALIDACIÓN DE MONTANTE MAYOR AL MÍNIMO
-			// if (pselectedAmount < pselectedQuestion.getBetMinimum()) {
-			if (pselectedAmount < pSelectedForecast.getQuestion().getBetMinimum()) {
+			Question q = pSelectedForecast.getQuestion();
+			if (pselectedAmount < q.getBetMinimum()) {
 				// 3 - NO ALCANZA APUESTA MÍNIMA
 				return 3;
 			} else {
@@ -1240,11 +1265,14 @@ public class DataAccess {
 					// 2 - FALTA DE SALDO
 					return 2;
 				} else {
-					System.out.println(">> DataAccess: createApuesta=> answer= " + pSelectedForecast + " client= "
-							+ clientdb.getUserName() + " amount=" + pselectedAmount + "€");
+					//System.out.println(">> DataAccess: createApuesta=> answer= " + pSelectedForecast + " client= "
+						//	+ clientdb.getUserName() + " amount=" + pselectedAmount + "€");
 					try {
 						db.getTransaction().begin();
+						//Forecast fore = insertForecast(pSelectedForecast);
 						Forecast fore = db.find(Forecast.class, pSelectedForecast);
+						//Forecast fore = findForecast(pSelectedForecast.getForecastNumber());
+						
 						Bet ap = fore.addBet(pSelectedForecast, pselectedClient, pselectedAmount);
 						clientdb.addBet(ap);
 						db.persist(ap);

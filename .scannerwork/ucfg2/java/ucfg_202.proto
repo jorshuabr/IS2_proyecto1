@@ -1,16 +1,32 @@
 
-5domain.RegularUser#getBankAccount()Ljava/lang/String;_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java3 3("1*è
-1_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java4	 4(´
-®
-_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java4	 4(
-%0java.lang.String"__id*'*%
-domain.RegularUser"
-bankAccount"{
-_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java4 4(
-
-%0java.lang.StringB
-domain.RegularUser
+7dataAccess.DataAccess#getMaxIdInDB()Ljava/lang/Integer;o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.java∞	 ∞	("6*ù
+3o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaπ	 π	(û
+õ
+o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaπ	 π	(
+maxidjava.lang.Integer"__id*
+""*
+3
+1*˝
+6o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.java≤	 ≤	(%›⁄
+o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.java≤	 ≤	('
+%0"6dataAccess.DataAccess#getAllEvents()Ljava/util/Vector;*
+dataAccess.DataAccess2getAllEvents()û
+õ
+o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.java¥	 ¥	(1
+maxidjava.lang.Integer"__id*
+""*
+3
+1*Ü
+1o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaΩ		 Ω	("è
+o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaΩ	 Ω	(
+
+maxidjava.lang.IntegerB
+dataAccess.DataAccess

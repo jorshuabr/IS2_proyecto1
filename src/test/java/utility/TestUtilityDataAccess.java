@@ -14,6 +14,8 @@ import javax.persistence.TypedQuery;
 
 import configuration.ConfigXML;
 import domain.Event;
+import domain.Forecast;
+import domain.RegularUser;
 
 public class TestUtilityDataAccess {
 	protected  EntityManager  db;
@@ -100,6 +102,45 @@ public class TestUtilityDataAccess {
 			Event ev = db.find(Event.class, event.getEventNumber());
 			return ev.DoesQuestionExists(question);
 			
+		}
+		
+		public int comprobarCreateApuesta_test3(Forecast fo, RegularUser user, Float apuesta) {
+			int res = 0;
+			if (apuesta < 0) {
+				res = 4;
+			}
+			return res;
+		}
+		
+		public int comprobarCreateApuesta_test4(Forecast fo, RegularUser user, Float apuesta) {
+			int res = 0;
+			if (apuesta < fo.getQuestion().getBetMinimum()) {
+				res = 3;
+			}
+			return res;
+		}
+		
+		public int comprobarCreateApuesta_test5(Forecast fo, RegularUser user, Float apuesta) {
+			int res = 0;
+			if (apuesta < user.getBalance()) {
+				res = 2;
+			}
+			return res;
+		}
+		
+		public int comprobarCreateApuesta_test9(Forecast fo, RegularUser user, Float apuesta) {
+			int res = 0;
+			
+			if (apuesta < 0) {
+				res = 4;
+			}
+			if (apuesta < fo.getQuestion().getBetMinimum()) {
+				res = 3;
+			}
+			if (apuesta < user.getBalance()) {
+				res = 2;
+			}
+			return res;
 		}
 }
 

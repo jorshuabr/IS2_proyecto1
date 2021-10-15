@@ -1,110 +1,56 @@
 
-bnull#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÈ È(1"startingBlock*
-2_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÍ> Í(Cˆ
-…
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÍ> Í(I
-%3java.awt.Color"__id*
-""˜
-•
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÍ> Í(I
-%1java.awt.Color"__id*
-
-%3java.awt.Color*
-1*È
-3_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÍ- Í(0Š‡
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÍ' Í(,
-%2java.awt.Color"java.awt.Color´
-±
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÍ# Í(;
-%4"java.awt.Color#<init>(III)V*
-
-%2java.awt.Color*2é*2é*2é˜
-•
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÍ# Í(;
-%1java.awt.Color"__id*
-
-%2java.awt.Color*
-1*…
-startingBlock_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÈ1 É(+­
-ª
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÇ Ç(
-%6"
-__annotate*
-java.lang.Override*
-
-tablejavax.swing.JTable—
-”
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÈ9 È(>
-tablejavax.swing.JTable"__annotation*
-
-%6«
-¨
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÇ Ç(
-%7"
-__annotate*
-java.lang.Override*
-
-valuejava.lang.Object•
-’
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÈG È(L
-valuejava.lang.Object"__annotation*
-
-%7*
-4*þ
-4_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÊ Ê(í
-ê
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÊ Ë(
-%0java.awt.Component"ˆjavax.swing.table.DefaultTableCellRenderer#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;*
-""*
-
-tablejavax.swing.JTable*
-
-valuejava.lang.Object*
-""*
-""*
-""*
-""Ÿ
-œ
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÊ Ë(
-cjava.awt.Component"__id*
-
-%0java.awt.Component*
-2
-3*Þ
-1_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÍ Í(Jùö
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÍ Í(J
-
-%5void"3java.awt.Component#setBackground(Ljava/awt/Color;)V*
-
-cjava.awt.Component*
-
-%1java.awt.Color2setBackground(Ljava/awt/Color;)"|
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÏ Ï(
-
-cjava.awt.Component:
-tablejavax.swing.JTable:
-valuejava.lang.Object:
-"":
-"":
-"":
-""B
-Lgui/CreateBetGUI$11093;
+1gui.RegisterGUI#validoNombre(Ljava/lang/String;)Zi
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java¥ ¥("7*ã
+3i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaª ª("s
+i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaª ª(
+""*Ž
+4i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java©8 ©(AËÈ
+i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java©O ©(c
+%3char[]" java.lang.String#toCharArray()[C*
+
+nombrejava.lang.String2toCharArray()Ä
+Á
+i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java©8 ©(g
+%4boolean"$java.lang.Character#isWhitespace(C)Z*"
+java.lang.Character*
+""*	
+3
+5
+1*Š
+5i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java© ©(ËÈ
+i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java© ©(/
+%1char[]" java.lang.String#toCharArray()[C*
+
+nombrejava.lang.String2toCharArray()À
+½
+i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java© ©(3
+%2boolean" java.lang.Character#isLetter(C)Z*"
+java.lang.Character*
+""*	
+4
+5
+1*Ä
+7i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java¦ ¦(ËÈ
+i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java¦ ¦(%
+%0char[]" java.lang.String#toCharArray()[C*
+
+nombrejava.lang.String2toCharArray()*
+5
+1*ã
+1i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java®	 ®("s
+i
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java® ®(
+"":
+nombrejava.lang.StringB
+gui.RegisterGUI

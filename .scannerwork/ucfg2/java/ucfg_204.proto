@@ -1,16 +1,29 @@
 
-4domain.RegularUser#getPhoneNumb()Ljava/lang/Integer;_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java; ;("1*è
-1_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java<	 <(™
-ß
-_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java<	 <(
-%0java.lang.Integer"__id*%*#
-domain.RegularUser"
-	phoneNumb"|
-_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java< <(
-
-%0java.lang.IntegerB
-domain.RegularUser
+DdataAccess.DataAccess#doLogin(Ljava/lang/String;Ljava/lang/String;)Zo
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.java˜	 ˜	("3"9"1*Ô
+3o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaá
+ á
+("y
+o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaá
+ á
+(
+""*Ô
+9o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.java˛	 ˛	("y
+o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.java˛	 ˛	(
+""*Ô
+1o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaã
+	 ã
+("y
+o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaã
+ ã
+(
+"":
+usernamejava.lang.String:
+passjava.lang.StringB
+dataAccess.DataAccess

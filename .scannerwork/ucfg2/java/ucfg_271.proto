@@ -1,9 +1,15 @@
 
-domain.Forecast#isWinnerf()Z\
-RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Forecast.java ("1*É
-1\
-RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Forecast.java	 ("f
-\
-RC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Forecast.java (
-""B
-domain.Forecast
+domain.Event#hashCode()Id
+ZC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Event.javau u("1*‡
+1d
+ZC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Event.javav v(«
+¨
+d
+ZC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Event.javax x('
+%0java.lang.Integer"__id*!*
+domain.Event"
+eventNumber"n
+d
+ZC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Event.javay y(
+""B
+domain.Event

@@ -1,17 +1,17 @@
 
-+domain.User#getUserName()Ljava/lang/String;X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java ("1*ð
-1X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java	 (š
-—
-X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java	 (
-%0java.lang.String"__id**
-domain.User"
+/domain.Question#getQuestion()Ljava/lang/String;g
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.javaW W("1*¢
+1g
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.javaX	 X(­
+ª
+g
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.javaX	 X(
+%0java.lang.String"__id*!*
+domain.Question"
 
-userName"t
-X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java (
+question"ƒ
+g
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.javaX X(
 
-%0java.lang.StringB
-domain.User
+%0java.lang.StringB
+domain.Question

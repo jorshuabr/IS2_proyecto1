@@ -1,16 +1,16 @@
 
-/domain.RegularUser#getEmail()Ljava/lang/String;_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java+ +("1*â
-1_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java,	 ,(•
-¢
-_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java,	 ,(
-%0java.lang.String"__id*!*
-domain.RegularUser"
-email"{
-_
-UC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/RegularUser.java, ,(
-
-%0java.lang.StringB
-domain.RegularUser
+òdataAccess.DataAccess#editarPerfilUsuario(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Zo
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÄ	 Ä	(#"3*Ô
+3o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaã	
+ ã	("y
+o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaã	 ã	(
+"": 
+pContrase√±ajava.lang.String:
+	pUsernamejava.lang.String:
+pNombrejava.lang.String:
+	pApellidojava.lang.String:
+pEmailjava.lang.String:#
+pCuentaBancariajava.lang.StringB
+dataAccess.DataAccess

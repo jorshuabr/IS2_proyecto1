@@ -1,22 +1,22 @@
 
-(domain.Bet#toString2()Ljava/lang/String;W
-MC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Bet.javaP P("1*Å
-1W
-MC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Bet.javaV	 V(ù
-ö
-W
-MC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Bet.javaZ Z(
+(domain.Bet#toString2()Ljava/lang/String;b
+XC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Bet.javaP P("1*≠
+1b
+XC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Bet.javaV	 V(®
+•
+b
+XC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Bet.javaZ Z(
 %0java.lang.String"__id*!*
 
 domain.Bet"
-estadoApuestaüú
-W
-MC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Bet.java[D [(T
+estadoApuesta™ß
+b
+XC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Bet.java[D [(T
 %1float"domain.Bet#getAmount()F*
 
-domain.Bet2getAmount()"a
-W
-MC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/Bet.javaV \(6
+domain.Bet2getAmount()"l
+b
+XC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Bet.javaV \(6
 ""B
 
 domain.Bet

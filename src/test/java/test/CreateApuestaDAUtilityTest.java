@@ -6,8 +6,6 @@ import java.util.Date;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
-import businessLogic.BLFacadeImplementation;
 import configuration.ConfigXML;
 import dataAccess.DataAccess;
 import domain.Event;
@@ -16,11 +14,15 @@ import domain.Question;
 import domain.RegularUser;
 import exceptions.UserAlreadyExistException;
 
-class CreateApuestaTest {
+class CreateApuestaDAUtilityTest {
+	//antiguo
+	//static DataAccess da = new DataAccess(ConfigXML.getInstance().getDataBaseOpenMode().equals("initialize"));;
+	//BLFacadeImplementation sut = new BLFacadeImplementation(da);
 	
-	static DataAccess da = new DataAccess(ConfigXML.getInstance().getDataBaseOpenMode().equals("initialize"));;
-	BLFacadeImplementation bl = new BLFacadeImplementation(da);
-
+	//Los Junit de la clase DataAccess para crearApuesta nos son correctos. El sut debe ser DataAccess,
+	//y se trabaja con DataAccessUtility para manipular la BD. Revisa todos los casos.
+	static DataAccess sut = new DataAccess(ConfigXML.getInstance().getDataBaseOpenMode().equals("initialize"));;
+	
 
 	@Test
 	@DisplayName("valor de apuesta negativo")
@@ -32,7 +34,7 @@ class CreateApuestaTest {
 		q.setBetMinimum(2);
 		Forecast f = new Forecast("nombreForecast", (float)12, q);
 		
-		int actual = bl.createApuesta(f, user, (float) -1);
+		int actual = sut.createApuesta(f, user, (float) -1);
 		
 		assertEquals(4, actual);
 		
@@ -46,7 +48,7 @@ class CreateApuestaTest {
 		q.setBetMinimum(2); //apuesta minima de 2
 		Forecast f = new Forecast("nombreForecast", (float)12, q);
 		
-		int actual = bl.createApuesta(f, user, (float) 1);
+		int actual = sut.createApuesta(f, user, (float) 1);
 		int expected = 3;
 		assertEquals(expected, actual);
 	}
@@ -54,16 +56,15 @@ class CreateApuestaTest {
 	@Test
 	@DisplayName("valor de apuesta mayor a saldo de usuario")
 	public void test3() throws UserAlreadyExistException {
-		//RegularUser user = new RegularUser("name", "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20);
-		RegularUser user = bl.registrar("name", "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20);
-		//saldo de usuario 20
+		RegularUser user = new RegularUser("name", "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20);
+		//RegularUser user = sut.registrar("name", "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20);
 		
 		Question q = new Question();
 		q.setBetMinimum(2); //apuesta minima de 2
 		Forecast f = new Forecast("nombreForecast", (float)12, q);
 		
 		
-		int actual = bl.createApuesta(f, user, (float) 100); //valor de apuesta de 100
+		int actual = sut.createApuesta(f, user, (float) 100); //valor de apuesta de 100
 		int expected = 2;
 		assertEquals(expected, actual);
 	}
@@ -78,7 +79,7 @@ class CreateApuestaTest {
 		q.setBetMinimum(9);
 		Forecast f = new Forecast("nombreForecast", (float)12, q);
 
-		assertThrows(Exception.class, () -> bl.registrar("name", "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20));
+		assertThrows(Exception.class, () -> sut.registrar("name", "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20));
 		
 	}
 	
@@ -91,9 +92,9 @@ class CreateApuestaTest {
 		q.setBetMinimum(2); 
 		q.setEvent(e);
 		Forecast f = new Forecast("nombreForecast", (float)12, q);
-		RegularUser user = (RegularUser) bl.getAllUsers().get(0);
+		RegularUser user = (RegularUser) sut.getAllUsers().get(0);
 		
-		int actual = bl.createApuesta(f, user, (float) 12); //valor de apuesta de 100
+		int actual = sut.createApuesta(f, user, (float) 12); //valor de apuesta de 100
 		int expected = 1;
 		assertEquals(expected, actual);
 	}

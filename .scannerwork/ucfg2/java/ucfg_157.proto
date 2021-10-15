@@ -1,110 +1,126 @@
 
-bnull#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java€ €(1"startingBlock*³
-2k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java…> …(C”
-‘
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java…> …(I
-%3java.awt.Color"__id*
-""¤
-¡
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java…> …(I
-%1java.awt.Color"__id*
-
-%3java.awt.Color*
-1*ø
-3k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java…- …(0–“
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java…' …(,
-%2java.awt.Color"java.awt.ColorÀ
-½
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java…# …(;
-%4"java.awt.Color#<init>(III)V*
-
-%2java.awt.Color*2é*2é*2é¤
-¡
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java…# …(;
-%1java.awt.Color"__id*
-
-%2java.awt.Color*
-1*Á
-startingBlockk
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java€1 (+¹
-¶
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.javaÿ ÿ(
-%6"
-__annotate*
-java.lang.Override*
-
-tablejavax.swing.JTable£
- 
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java€9 €(>
-tablejavax.swing.JTable"__annotation*
-
-%6·
-´
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.javaÿ ÿ(
-%7"
-__annotate*
-java.lang.Override*
+6gui.MainGUI#getBtnAnularApuesta()Ljavax/swing/JButton;e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java— —($"3*ù
+2e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java™ ™(#š—
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java™ ™(!
+%1javax.swing.JButton"javax.swing.JButton¬
+©
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java™ ™(#
+%2"javax.swing.JButton#<init>()V*
 
-valuejava.lang.Object¡
-ž
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java€G €(L
-valuejava.lang.Object"__annotation*
-
-%7*
-4*¢
-4k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java‚ ‚(ù
-ö
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java‚ ƒ(
-%0java.awt.Component"ˆjavax.swing.table.DefaultTableCellRenderer#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;*
-""*
-
-tablejavax.swing.JTable*
+%1javax.swing.JButton²
+¯
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java™ ™(##
+gui.MainGUI"
+btnAnularApuesta"__id*
 
-valuejava.lang.Object*
-""*
-""*
-""*
-""«
-¨
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java‚ ƒ(
-cjava.awt.Component"__id*
-
-%0java.awt.Component*
-2
-3*ƒ
-1k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java… …(J…‚
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java… …(J
+%1javax.swing.JButton²
+¯
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaš š(
+%3javax.swing.JButton"__id*%*#
+gui.MainGUI"
+btnAnularApuestaš—
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaš) š(5
+%4Lgui/MainGUI$12441;"Lgui/MainGUI$12441;´
+±
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaš% ¥(
+%5"%java.awt.event.MouseAdapter#<init>()V*
+
+%4Lgui/MainGUI$12441;¨¥
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaš ¥(
 
-%5void"3java.awt.Component#setBackground(Ljava/awt/Color;)V*
+%6void"Djava.awt.Component#addMouseListener(Ljava/awt/event/MouseListener;)V*
+
+%3javax.swing.JButton*
+
+%4Lgui/MainGUI$12441;20addMouseListener(Ljava/awt/event/MouseListener;)²
+¯
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java¦ ¦(
+%7javax.swing.JButton"__id*%*#
+gui.MainGUI"
+btnAnularApuestaš—
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java¦* ¦(8
+%8Lgui/MainGUI$12725;"Lgui/MainGUI$12725;©
+¦
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java¦& °(
+%9"java.lang.Object#<init>()V*
+
+%8Lgui/MainGUI$12725;µ²
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java¦ °(
+%10void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%7javax.swing.JButton*
+
+%8Lgui/MainGUI$12725;22addActionListener(Ljava/awt/event/ActionListener;)³
+°
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java± ±(
+%11javax.swing.JButton"__id*%*#
+gui.MainGUI"
+btnAnularApuestaŠ
+‡
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java± ±(A
+%12java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas²¯
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java± ±(l
+%13java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+
+%12java.util.ResourceBundle*!
+MainGUI.btnAnularApuesta.text2getString(Ljava/lang/String;)†ƒ
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java± ±(m
+%14void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%11javax.swing.JButton*
 
-cjava.awt.Component*
-
-%1java.awt.Color2setBackground(Ljava/awt/Color;)"ˆ
-k
-_C:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/FindQuestionsInvitadoGUI.java‡ ‡(
-
-cjava.awt.Component:
-tablejavax.swing.JTable:
-valuejava.lang.Object:
-"":
-"":
-"":
-""B'%
-#Lgui/FindQuestionsInvitadoGUI$9052;
+%13java.lang.String2setText(Ljava/lang/String;)³
+°
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java² ²(
+%15javax.swing.JButton"__id*%*#
+gui.MainGUI"
+btnAnularApuestaåâ
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java² ²(/
+%16void"#java.awt.Component#setBounds(IIII)V*
+
+%15javax.swing.JButton*2-*2à*2¦*2S2setBounds(IIII)*
+1*§
+3e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java˜ ˜(²
+¯
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java˜ ˜(
+%0javax.swing.JButton"__id*%*#
+gui.MainGUI"
+btnAnularApuesta*
+2
+1*¨
+1e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java´	 ´(³
+°
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java´	 ´(
+%17javax.swing.JButton"__id*%*#
+gui.MainGUI"
+btnAnularApuesta"…
+e
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.java´ ´(
+
+%17javax.swing.JButtonB
+gui.MainGUI

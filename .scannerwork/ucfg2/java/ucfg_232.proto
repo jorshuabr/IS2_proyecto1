@@ -1,17 +1,9 @@
 
-+domain.User#getUserPass()Ljava/lang/String;X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java   ("1*ð
-1X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java!	 !(š
-—
-X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java!	 !(
-%0java.lang.String"__id**
-domain.User"
-
-userPass"t
-X
-NC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/domain/User.java! !(
-
-%0java.lang.StringB
-domain.User
+ domain.Question#getBetMinimum()Fg
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.javaj j("1*ß
+1g
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.javak	 k("q
+g
+]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.javak k(
+""B
+domain.Question

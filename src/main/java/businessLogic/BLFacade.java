@@ -143,4 +143,8 @@ public interface BLFacade {
 	public boolean getEstadoEvento(Event ev);
 
 	public Vector<Event> getEventosMedioCerrados();
+	
+	public User findUser(String name);
+	
+	public Forecast findForecast(int forecastNumber);
 }

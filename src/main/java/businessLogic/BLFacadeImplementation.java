@@ -342,6 +342,22 @@ public class BLFacadeImplementation implements BLFacade {
 		return au;
 
 	}
+	
+	@Override
+	public Forecast findForecast(int forecastNumber) {
+		dbManager.open(false);
+		Forecast fore = dbManager.findForecast(forecastNumber);
+		dbManager.close();
+		return fore;
+	}
+	
+	@Override
+	public User findUser(String userName) {
+		dbManager.open(false);
+		User user = dbManager.findUser(userName);
+		dbManager.close();
+		return user;
+	}
 
 	@Override
 	public int createApuesta(Forecast pselectedAnswer, RegularUser pselectedClient, Float pselectedAmount) {

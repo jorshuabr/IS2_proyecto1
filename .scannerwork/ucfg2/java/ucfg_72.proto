@@ -1,126 +1,108 @@
 
-@gui.MainAdminGUI#getJButtonAdministration()Ljavax/swing/JButton;_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaÜ Ü()"3*µ
-2_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaà à(îë
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaà à(
-%1javax.swing.JButton"javax.swing.JButton¶
-£
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaà à(
-%2"javax.swing.JButton#<init>()V*
-
-%1javax.swing.JButton¨
-©
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaà à(#
-gui.MainAdminGUI"
-buttonAdmin"__id*
-
-%1javax.swing.JButton¨
-©
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaâ â(
-%3javax.swing.JButton"__id*%*#
-gui.MainAdminGUI"
-buttonAdminûõ
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaâ$ â(0
-%4Lgui/MainAdminGUI$12343;"Lgui/MainAdminGUI$12343;≥
-∞
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaâ  ì(
-%5"%java.awt.event.MouseAdapter#<init>()V* 
+Egui.MainAdminGUI#getRdbtnNewRadioButton_2()Ljavax/swing/JRadioButton;j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaπ π(."3*”
+2j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaª, ª(8©¶
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaª ª(+
+%1javax.swing.JRadioButton"javax.swing.JRadioButton›
+⁄
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaª ª(9
+%2"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V* 
 
-%4Lgui/MainAdminGUI$12343;ß§
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaâ ì(
+%1javax.swing.JRadioButton*
 
-%6void"Djava.awt.Component#addMouseListener(Ljava/awt/event/MouseListener;)V*
-
-%3javax.swing.JButton* 
+Castellano∆
+√
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaª ª(9-
+gui.MainAdminGUI"
+rdbtnNewRadioButton_2"__id* 
 
-%4Lgui/MainAdminGUI$12343;20addMouseListener(Ljava/awt/event/MouseListener;)¨
-©
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaî î(
-%7javax.swing.JButton"__id*%*#
-gui.MainAdminGUI"
-buttonAdminûõ
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaî% î(3
-%8Lgui/MainAdminGUI$12636;"Lgui/MainAdminGUI$12636;®
-•
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaî! ú(
-%9"java.lang.Object#<init>()V* 
+%1javax.swing.JRadioButton∆
+√
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaº º(
+%3javax.swing.JRadioButton"__id*/*-
+gui.MainAdminGUI"
+rdbtnNewRadioButton_2ì
+ê
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaº' º(2
+%4java.awt.Color"__id*
+""èå
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaº º(3
+
+%5void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V* 
 
-%8Lgui/MainAdminGUI$12636;¥±
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaî ú(
-%10void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-%7javax.swing.JButton* 
+%3javax.swing.JRadioButton*
+
+%4java.awt.Color2setBackground(Ljava/awt/Color;)∆
+√
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaΩ Ω(
+%6javax.swing.JRadioButton"__id*/*-
+gui.MainAdminGUI"
+rdbtnNewRadioButton_2ß§
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaΩ/ Ω(=
+%7Lgui/MainAdminGUI$9667;"Lgui/MainAdminGUI$9667;≤
+Ø
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaΩ+ ƒ(
+%8"java.lang.Object#<init>()V*
+
+%7Lgui/MainAdminGUI$9667;¬ø
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaΩ ƒ(
+
+%9void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V* 
 
-%8Lgui/MainAdminGUI$12636;22addActionListener(Ljava/awt/event/ActionListener;)≠
-™
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaù ù(
-%11javax.swing.JButton"__id*%*#
+%6javax.swing.JRadioButton*
+
+%7Lgui/MainAdminGUI$9667;22addActionListener(Ljava/awt/event/ActionListener;)º
+π
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.java≈ ≈(
+%10javax.swing.ButtonGroup"__id*%*#
 gui.MainAdminGUI"
-buttonAdminﬂ‹
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaù ù(*
-%12void"#java.awt.Component#setBounds(IIII)V*
-
-%11javax.swing.JButton*2"*2Ë*2ã*2&2setBounds(IIII)≠
-™
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaû û(
-%13javax.swing.JButton"__id*%*#
-gui.MainAdminGUI"
-buttonAdminÑ
-Å
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaû û(<
-%14java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
-java.util.ResourceBundle*
-	Etiquetas¨©
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaû û(g
-%15java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+buttonGroup«
+ƒ
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.java≈ ≈((
+%11javax.swing.JRadioButton"__id*/*-
+gui.MainAdminGUI"
+rdbtnNewRadioButton_2†ù
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.java≈ ≈()
+%12void":javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V* 
+
+%10javax.swing.ButtonGroup*!
 
-%14java.util.ResourceBundle*!
-MainAdminGUI.buttonAdmin.text2getString(Ljava/lang/String;)Ä˝
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaû û(h
-%16void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
-
-%13javax.swing.JButton*
-
-%15java.lang.String2setText(Ljava/lang/String;)*
-1*õ
-3_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaá á(¨
-©
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.javaá á(
-%0javax.swing.JButton"__id*%*#
-gui.MainAdminGUI"
-buttonAdmin*
+%11javax.swing.JRadioButton2!add(Ljavax/swing/AbstractButton;)*
+1*¿
+3j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.java∫ ∫(∆
+√
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.java∫ ∫(
+%0javax.swing.JRadioButton"__id*/*-
+gui.MainAdminGUI"
+rdbtnNewRadioButton_2*
 2
-1*ï
-1_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.java†	 †(≠
-™
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.java†	 †(
-%17javax.swing.JButton"__id*%*#
-gui.MainAdminGUI"
-buttonAdmin"
-_
-SC:/Users/mauri/eclipse-workspace/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.java† †(
-
-%17javax.swing.JButtonB
+1*À
+1j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.java«	 «(«
+ƒ
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.java«	 «(
+%13javax.swing.JRadioButton"__id*/*-
+gui.MainAdminGUI"
+rdbtnNewRadioButton_2"è
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainAdminGUI.java« «(!
+
+%13javax.swing.JRadioButtonB
 gui.MainAdminGUI
